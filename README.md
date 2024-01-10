@@ -6,4 +6,4 @@ more text<br>
 
 ### section 3 h3 formatting example
 some text<br>
-addling line 9 on new branch
+adding line 9 on main branch
